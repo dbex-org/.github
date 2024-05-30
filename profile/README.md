@@ -1,5 +1,4 @@
-##= Hi there 👋
-
+Introducing...
 # DBEX - MULTIPLATFORM DATABASE EXPLORER
 
 <!--
